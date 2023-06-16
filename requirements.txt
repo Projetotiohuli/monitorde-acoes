@@ -1,0 +1,6 @@
+streamlit==1.22.0
+pandas==1.4.4
+yfinance==0.1.74
+investpy==1.0.8
+plotly==5.9.0
+datetime
